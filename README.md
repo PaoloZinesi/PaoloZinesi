@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a Master student in Physics of Data at the University of Padua (IT). This master degree aims at providing students both theoretical and computational tools to be exploited in our data-driven world. Personally, I believe that in the framework in which Big Data techniques integrate physical knowledge, both fields can benefit from this interaction, leading to development and innovation.
+
+### :envelope: Contacts
+* Personal E-mail: paolo.zinesi@icloud.com
+* Student E-mail: paolo.zinesi@studenti.unipd.it
+* [LinkedIn](www.linkedin.com/in/paolo-zinesi-51540b188) 
+
 <!--
 **PaoloZinesi/PaoloZinesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
