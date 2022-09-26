@@ -5,7 +5,7 @@ I'm a Master student in Physics of Data at the University of Padua (IT). This ma
 ### :envelope: Contacts
 * Personal E-mail: paolo.zinesi@icloud.com
 * Student E-mail: paolo.zinesi@studenti.unipd.it
-* [LinkedIn](www.linkedin.com/in/paolo-zinesi-51540b188) 
+* [![LinkedIn](https://img.shields.io/badge/linkedin-2867b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolo-zinesi-51540b188/) 
 
 <!--
 **PaoloZinesi/PaoloZinesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
